@@ -1,0 +1,7 @@
+id,name,owner_team,tier,first_run_on
+1,orders_sync,analytics_engineering,critical,2025-09-05
+2,customer_profile,data_platform,low,2025-09-02
+3,finance_close,data_platform,standard,2025-09-11
+4,web_events_ingest,finance_systems,standard,2025-09-09
+5,support_metrics,finance_systems,low,2025-09-10
+6,inventory_snapshot,finance_systems,standard,2025-09-09
